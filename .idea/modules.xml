@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Adaptive-programming.iml" filepath="$PROJECT_DIR$/Adaptive-programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Formatieve-opdracht-1a/Formatieve-opdracht-1a.iml" filepath="$PROJECT_DIR$/Formatieve-opdracht-1a/Formatieve-opdracht-1a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Formatieve-opdracht-2a/Formatieve-opdracht-2a.iml" filepath="$PROJECT_DIR$/Formatieve-opdracht-2a/Formatieve-opdracht-2a.iml" />
     </modules>
   </component>
 </project>
